@@ -36,7 +36,22 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "7f3ac479aeccd6d945a16d1aae48afd6"
+    "revision": "cd2515356b8f41ad9f46f69441e873ae"
+  },
+  {
+    "url": "static/Calibre-Medium-46b36969c7bb1d7ed4c8253e8f274788.woff2"
+  },
+  {
+    "url": "static/Calibre-Regular-b63c62e591d0c8fbe2c8f009883346d5.woff2"
+  },
+  {
+    "url": "static/Calibre-RegularItalic-35657aa2d12ff78e3d8a8a5ba28c2c35.woff2"
+  },
+  {
+    "url": "static/Calibre-Semibold-d8b856473a51d7eec2a9bccf2fbea54c.woff2"
+  },
+  {
+    "url": "static/Calibre-SemiboldItalic-8f3e4b3eaed73e67bbc4fc81f308a35f.woff2"
   },
   {
     "url": "1-564cf62b8b137ae14133.js"
