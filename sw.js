@@ -26,49 +26,34 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-ea59ba3aba9453769123.js"
+    "url": "webpack-runtime-beb704d2eed7c1ef2321.js"
   },
   {
-    "url": "app-9f07b51b16c3b9fe5018.js"
+    "url": "app-8b1023504ccfb004f449.js"
   },
   {
-    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-6d1e71d2c34aaa968ace.js"
+    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-c69e4424116e2a603324.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "cd2515356b8f41ad9f46f69441e873ae"
+    "revision": "92c93e78e70e642fa44fdd394793151b"
   },
   {
-    "url": "static/Calibre-Medium-46b36969c7bb1d7ed4c8253e8f274788.woff2"
+    "url": "0-db32735a7b454870872f.js"
   },
   {
-    "url": "static/Calibre-Regular-b63c62e591d0c8fbe2c8f009883346d5.woff2"
+    "url": "component---src-pages-404-js-fdf8cc740ea44395aa17.js"
   },
   {
-    "url": "static/Calibre-RegularItalic-35657aa2d12ff78e3d8a8a5ba28c2c35.woff2"
-  },
-  {
-    "url": "static/Calibre-Semibold-d8b856473a51d7eec2a9bccf2fbea54c.woff2"
-  },
-  {
-    "url": "static/Calibre-SemiboldItalic-8f3e4b3eaed73e67bbc4fc81f308a35f.woff2"
-  },
-  {
-    "url": "1-564cf62b8b137ae14133.js"
-  },
-  {
-    "url": "component---src-pages-404-js-83e13a2d622ee2b56abe.js"
-  },
-  {
-    "url": "0-9a7bc59ed9150ec2faeb.js"
+    "url": "1-158552ddc1eb6355c90e.js"
   },
   {
     "url": "page-data/404.html/page-data.json",
-    "revision": "d295268b881bf337f18361f47445c3b0"
+    "revision": "c020369b3729bfeef2e0c9b33fd6401b"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
-    "revision": "0701df1bfa76f584da2298e7ffe106f9"
+    "revision": "5f01a90b9e127e91f00ca0a5664bfb5f"
   },
   {
     "url": "manifest.webmanifest",
